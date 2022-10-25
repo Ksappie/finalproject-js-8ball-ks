@@ -1,8 +1,8 @@
-h1 { font-weight: 100; font-size: 2.5em; color: rebeccapurple;}
+h1 { font-weight: 100; font-size: 2.5em; color: rebeccapurple;       text-decoration:underline;}
 
 
 body {
-  background-image: url('/img/trippy2.webp');
+  background-image: url('../img/trippy2.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
